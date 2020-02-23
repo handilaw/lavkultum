@@ -1,0 +1,3 @@
+#home {background: url({{ asset('images/home.png') }}) no-repeat center center fixed; 
+
+     background-size: cover;};
